@@ -1,1 +1,1 @@
-This folder contains all the assignments during the live sessions for practice
+This folder contains all the assignments given during the live sessions for practice
